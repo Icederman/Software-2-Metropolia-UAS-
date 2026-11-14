@@ -6,3 +6,6 @@ Completed assignment 1,2,3,4,5,6,7,8,9,10,11
 
 # JS module 3
 Completed assignment 1,2,3,4,5,6,7,8,9,10,11
+
+# JS module 4
+Completed assignment 1,2,3,4,5,6,7,8,9,10,11,12
